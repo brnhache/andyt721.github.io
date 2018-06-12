@@ -1,0 +1,41 @@
+body{
+  text-align: center;
+  font-family: calibri;
+  background-color: lightgrey;
+  }
+h1{font-weight: bold;}
+a{
+  display:inline-block;
+  margin: 10px;
+  padding: 3px;
+  font-weight:bold;
+  text-decoration: none;
+  color: black;
+  background-color: lightgrey;
+  border: 1px solid black;
+  border-radius: 3px;
+  }
+a:hover{
+  color: white;
+  border: 1px solid white;
+  }
+.ProductType{
+  font-weight: bold;
+  color: white;
+  position: relative;
+  overflow: hidden;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#LawnGarden{
+  background-image: url(./Pictures/Backgrounds/Grass.jpg);
+  }
+#CompactTractors{
+  background-image: url(./Pictures/Backgrounds/Wheat.png);
+  }
+#Generators{
+  background-image: url(./Pictures/Backgrounds/Storm.jpg);
+  }
+#SnowRemoval{
+  background-image: url(./Pictures/Backgrounds/Snow.jpg);
+  }
