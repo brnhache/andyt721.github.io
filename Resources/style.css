@@ -28,14 +28,14 @@ a:hover{
   background-size: cover;
 }
 #LawnGarden{
-  background-image: url(./Pictures/Backgrounds/Grass.jpg);
+  background-image: url(../Pictures/Backgrounds/Grass.jpg);
   }
 #CompactTractors{
-  background-image: url(./Pictures/Backgrounds/Wheat.png);
+  background-image: url(../Pictures/Backgrounds/Wheat.png);
   }
 #Generators{
-  background-image: url(./Pictures/Backgrounds/Storm.jpg);
+  background-image: url(../Pictures/Backgrounds/Storm.jpg);
   }
 #SnowRemoval{
-  background-image: url(./Pictures/Backgrounds/Snow.jpg);
+  background-image: url(../Pictures/Backgrounds/Snow.jpg);
   }
